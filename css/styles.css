@@ -80,6 +80,20 @@ body {
 .hero {
 }
 .hero-title {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.hero-btn {
+  background-color: #4d5ae5;
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
 }
 .feature {
 }
@@ -94,6 +108,11 @@ body {
 .about {
 }
 .about-title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+  color: var(--secondary-txt-cl);
 }
 .about-list {
 }
@@ -102,11 +121,6 @@ body {
 .about-img {
 }
 .team {
-  font-size: 36px;
-  line-height: 1.11;
-  text-align: center;
-  text-transform: capitalize;
-  color: var(--secondary-txt-cl);
 }
 .team-heading {
 }
