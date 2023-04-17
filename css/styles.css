@@ -1,0 +1,169 @@
+:root {
+  /* Fonts */
+  --primary-font: Roboto;
+  --secondary-font: Raleway;
+  /* Color */
+  --main-txt-cl: #434455;
+  --secondary-txt-cl: #2e2f42;
+}
+
+body {
+  font-family: var(--primary-font);
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--main-txt-cl);
+}
+
+/* Base styles */
+
+.link {
+  text-decoration: none;
+}
+.list {
+  list-style: none;
+}
+
+.btn {
+  font-family: inherit;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+.hero {
+  background-color: #2e2f42;
+}
+
+.contact-address {
+  font-style: normal;
+}
+
+.footer {
+  background-color: #2e2f42;
+}
+
+/* WebStudio */
+.header {
+}
+.header-nav {
+}
+.header-nav-link {
+}
+.header-nav-list {
+}
+.header-nav-item {
+}
+.header-address {
+}
+.contact-address {
+}
+.header-address-list {
+}
+.header-address-item {
+}
+.header-address-link {
+}
+.hero {
+}
+.hero-title {
+}
+.feature {
+}
+.feature-list {
+}
+.feature-item {
+}
+.feature-title {
+}
+.feature-text {
+}
+.about {
+}
+.about-title {
+}
+.about-list {
+}
+.about-item {
+}
+.about-img {
+}
+.team {
+}
+.team-heading {
+}
+.team-list {
+}
+.team-item {
+}
+.team-img {
+}
+.team-title {
+}
+.team-subtitle {
+}
+.footer {
+}
+.main {
+}
+
+/* Portfolio */
+.header {
+}
+.header-nav {
+}
+.header-logo {
+}
+.header-nav-list {
+}
+.header-nav-item {
+}
+.header-nav-link {
+}
+.header-address {
+}
+.contact-address {
+}
+.header-address-list {
+}
+.header-address-item {
+}
+.header-address-link {
+}
+.main {
+}
+.filters {
+}
+.filters-list {
+}
+.filters-item {
+}
+.cards-list {
+}
+.cards-item {
+}
+.cards-link {
+}
+.cards-img {
+}
+.cards-title {
+}
+.cards-subtitle {
+}
+.footer {
+}
+.footer-link {
+}
+.footer-text {
+}
