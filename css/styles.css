@@ -94,14 +94,24 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  cursor: pointer;
 }
-.feature {
+.hero-btn:hover,
+.hero-btn:focus {
+  background-color: #404bbf;
+}
+.feature-section {
 }
 .feature-list {
 }
 .feature-item {
 }
 .feature-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--secondary-txt-cl);
 }
 .feature-text {
 }
